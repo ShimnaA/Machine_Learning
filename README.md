@@ -8,4 +8,7 @@ Python:
 
 Basics, Object Oriented Programming, Lambda Map Filter, Pandas
 
+Databases:
+
+MySQL, SqLite, Mongodb, Atlas
 
