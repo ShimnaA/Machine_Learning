@@ -1,4 +1,6 @@
 K_Nearest_Neighbors/.ipynb_checkpoints/KNN_OnData-checkpoint.ipynb 
 '.ipynb_checkpoints' 
 .ipynb_checkpoints
-.idea/
+.idea/*
+.idea/modules.xml
+
