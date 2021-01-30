@@ -12,3 +12,9 @@ Databases:
 
 MySQL, SqLite, Mongodb, Atlas
 
+API:
+
+Flask Rest API -  web application, connect through Postman
+
+
+
